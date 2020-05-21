@@ -1,7 +1,13 @@
-
-# Instructions
+# User Guide
 Hello and welcome to _Python for Chemical Engineers_.
 
+In this repository, you'll find Jupyter Notebooks going through an introduction to Python and related tools for applications in ChemE. You can follow along on github or download the .ipynb files to go through and run the code yourself! 
+
+If you just want to follow along, go ahead and puruse through the files in this repo.
+
+If you want to run the code, make sure you have Jupyter installed on your computer; if not, you can follow the installation guide below.
+
+# Installation Guide
 ## Getting Python
 Since this is a Python tutorial, you'll need to install it! You'll need Python 3 to get started. You can download Python directly <a href="https://www.python.org/downloads/"> here</a>. Just follow the instructions for your own operating system.
 
